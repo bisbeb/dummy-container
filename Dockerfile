@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM busybox:latest
 
 LABEL maintainer="linuxsatellite@gmail.com"
 
